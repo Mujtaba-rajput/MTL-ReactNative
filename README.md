@@ -29,7 +29,8 @@ press a
 npm run ios
 
 # OR using Yarn
-yarn ios
+yarn start
+press i
 ```
 
 
